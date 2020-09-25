@@ -1,0 +1,44 @@
+h1{
+	color: #800080;
+	/* gantikan font-size ke 65px */
+	font-size:serif;
+}
+/*untuk format gambar*/
+img {
+	/* height untuk gambar*/
+	height: 300px;
+	/* lebar gambar*/
+	width: 450px;
+}
+p{
+	color: #663399;
+	/* gantikan font-size ke 20px */
+	font-size: 25px;
+	/* gantikan font-family ke"lucida grande" */
+	font-family: lucida grande;
+}
+body {background-color: #dda0dd}
+h3{
+	color: #000080;
+	/* gantikan font-size ke 45px */
+	font-size: serif;
+}
+	
+UL.A
+{
+	
+LIST-STYLE-POSITION: INSIDE;
+}
+UL.B
+{
+LIST-STYLE-POSITION: OUTSIDE;
+}
+ul {
+ background:orange;
+ padding: 25px;
+}
+ul li {
+ background: lime;
+ margin: 10px;
+ }
+</style>
